@@ -24,7 +24,7 @@ DEBUG = os.environ.get('DJANGO_DEBUG', 'True') == 'True'
 ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
-    # 'yourusername.pythonanywhere.com',   # <-- add when deploying
+    'shadhii.pythonanywhere.com',
     # 'yourproject.vercel.app',           # <-- add frontend domain when ready
 ]
 
